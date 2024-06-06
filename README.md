@@ -10,5 +10,3 @@ figure out how flashpoint stores their swfs? or just download it from internet a
 get a rubber duckie to help you with your code problems
 # Credits
 Me, for Doing the Thing
-
-RedstoneRuler, for helping me Do the Thing in HaxeFlixel
